@@ -1,0 +1,5 @@
+adhdata.csv
+__pycache__/
+.idea/
+venv/
+.venv/
